@@ -11,7 +11,7 @@ Learn Webpack
     - Images
     - Progressive Web App ( PWA)
 
-1. **html-pub-scss-webpack**
+1. **html-pug-scss-webpack**
 - Build a react project using pub scss webpack
 
 2. **react-from-scratch**
